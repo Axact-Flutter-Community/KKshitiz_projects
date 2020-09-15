@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[Day1-session2](/assets/images/day1-session-2.png)
+![Day1-session2](/assets/images/day1-session-2.png)
 
 ## Getting Started
 
