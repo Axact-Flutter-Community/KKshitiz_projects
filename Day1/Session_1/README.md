@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+![day1-session-1](images/Screenshot_1600148969.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[Day1-session2](/assets/images/day1-session-2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

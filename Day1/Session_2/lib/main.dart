@@ -6,18 +6,18 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
+        backgroundColor: Colors.white,
         appBar: AppBar(
+          backgroundColor: Colors.orange[600],
           title: Text('Day 1 : Session - 2'),
         ),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.network(
-                'https://media-exp1.licdn.com/dms/image/C560BAQGBYyy9FpwIXQ/company-logo_200_200/0?e=2159024400&v=beta&t=KBDjq1jdg9pxMic8tEvpKFo2qFT_HGA-T4068UVqBls',
-                scale: 0.75,
-              ),
+              Image.asset('assets/images/logo.png'),
               Text(
                 'Axact Studios',
                 style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
